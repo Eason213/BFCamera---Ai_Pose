@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BF Camera | Prompt Case",
+  "description": "A mobile-first camera application with interactive pose wireframes to help capture the perfect shot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

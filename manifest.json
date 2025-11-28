@@ -1,0 +1,21 @@
+{
+  "name": "BF Camera | Prompt Case",
+  "short_name": "BF Camera",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/OiD8pz2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/OiD8pz2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
